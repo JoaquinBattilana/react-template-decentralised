@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### TODO
+
+- Ipfs
+- Jest
+- Cypress
+- Linter & prettier
+- Internationalization
+- Static builder
+- Local test ethereum node
+- Main & Test Chain support
+- L2 Support
+- Ethers & Web3 support
+- Docker
+- Add template to create-react-app
+- Move utils to a library
